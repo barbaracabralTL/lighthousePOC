@@ -1,0 +1,2 @@
+# lighthousePOC
+Example of lighthouse
